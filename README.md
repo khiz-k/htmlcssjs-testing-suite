@@ -1,3 +1,5 @@
-# Codepen Clone Beta
+# Codepen Clone (Beta)
 
-for testing html and css currently, js part still in prod.
+Currently only for testing html and css.
+
+JS functionality still needs to be added.
