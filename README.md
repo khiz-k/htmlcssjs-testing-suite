@@ -1,3 +1,3 @@
 # Codepen Clone
 
-for testing html css js
+for testing html and css currently, js part still in prod.
